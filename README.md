@@ -16,3 +16,4 @@
     ---Demo_Generate_Simulated_Data.m
     |
     ---Noisy_Pavia_CASE1.mat
+### 4. run Demo.m
