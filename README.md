@@ -1,1 +1,1 @@
-# code_HSI_denoising
+## code for paper 'Hyperspectral Image Denoising via Weighted Multidirectional Low-rank Tensor Recovery'
